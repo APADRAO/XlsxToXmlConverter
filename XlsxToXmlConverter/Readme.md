@@ -20,7 +20,7 @@ Todos os métodos trabalham apenas com dados em memória e retornam o resultado 
 
 ## Dependências
 
-- [.NET 8](https://dotnet.microsoft.com/download)
+- [.NET 9](https://dotnet.microsoft.com/download)
 - [ClosedXML](https://github.com/ClosedXML/ClosedXML) (para manipulação de arquivos Excel)
 
 ## Instalação
