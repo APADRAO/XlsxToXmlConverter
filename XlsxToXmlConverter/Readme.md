@@ -1,5 +1,5 @@
 ﻿
-# Conversor XML ⇄ Excel (.NET 8, C# 12)
+# Conversor XML ⇄ Excel (.NET 9, C# 12)
 
 Este projeto fornece métodos utilitários para converter arquivos XML em planilhas Excel (XLSX) e vice-versa, utilizando C# 12 e .NET 8. As conversões são realizadas inteiramente em memória, com arquivos trafegando em formato Base64, facilitando integrações com APIs e sistemas que não trabalham diretamente com arquivos físicos.
 
